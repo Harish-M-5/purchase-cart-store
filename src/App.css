@@ -1,0 +1,287 @@
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+/* CONTAINER */
+.container {
+  min-height: 100vh; 
+  position: relative;
+  background-color: #f5f5f5;
+  color: #000;
+}
+
+
+/* LIGHT MODE */
+.light {
+  background: linear-gradient(to right, #fdfbfb, #ebedee);
+  color: #111;
+}
+
+/* DARK MODE */
+.dark {
+  background: #0a0a0a;
+  color: rgb(23, 245, 7);
+}
+
+/* DARK INPUT FIX */
+.dark input,
+.dark select {
+  background: #faf8f8;
+  color: rgb(16, 15, 15);
+  
+}
+
+
+
+
+/* HEADER */
+
+.header {
+  position: sticky;
+  top: 0;
+  padding: 18px 15px;   /* before 10 irundha increase pannunga */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+  z-index: 100;
+}
+
+.main-title {
+  font-size: 20px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  margin-top: 5px; 
+  background: linear-gradient(to right, #4f46e5, #22c55e); 
+  -webkit-background-clip: text; color: transparent;
+}
+
+
+/* MENU */
+.menu {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+
+.menu button {
+  padding: 8px;
+  margin: 4px 0;
+  border-radius: 6px;
+  border: none;
+  background: #6366f1;
+  color: white;
+}
+
+/* INPUT */
+.input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+/* WARNING */
+.warning {
+  background: red;
+  color: white;
+  padding: 8px;
+  border-radius: 6px;
+  text-align: center;
+}
+
+/* CARD */
+.card {
+  background: linear-gradient(135deg, #ffffff, #f3f4f6);
+  padding: 12px;
+  margin: 10px 0;
+  border-radius: 12px;
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+}
+
+.dark .card {
+  background: #0e0e0e;
+}
+
+/* PRODUCT NAME + PRICE STYLE */
+.card p {
+  font-size: 15px;
+}
+
+.card p b {
+  font-size: 16px;
+  font-weight: 800;
+  color: #2563eb;
+}
+
+/* TOTAL BAR */
+.total-bar {
+  margin-top: 15px;
+  padding: 14px;
+  background: linear-gradient(to right, #4f46e5, #22c55e);
+  color: white;
+  text-align: center;
+  border-radius: 12px;
+  font-size: 18px;
+  font-weight: 900;
+  letter-spacing: 1px;
+}
+
+/* SMALL DELETE BUTTON */
+.delete-small-btn {
+  margin-top: 8px;
+  padding: 6px 12px;
+  font-size: 12px;
+  background: crimson;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ADD ITEM GREEN BUTTON */
+button[type="submit"] {
+  background: #22c55e !important;
+  color: white;
+  font-weight: bold;
+}
+
+/* HISTORY DELETE */
+.history-delete {
+  margin-top: 8px;
+  padding: 6px 10px;
+  background: red;
+  color: white;
+  border: none;
+  border-radius: 6px;
+}
+
+/* PDF BUTTON */
+.pdf-btn {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 8px;
+  background: #4f46e5;
+  color: white;
+}
+
+.balance {
+  font-size: 20px;
+  margin-top: 5px;
+  text-align: right;
+  color: #666;
+  font-weight: 600;
+}
+
+.dark .balance {
+  color: #bbb;
+}
+
+
+/* MOBILE FRIENDLY */
+@media (min-width: 768px) {
+  .menu {
+    flex-direction: row;
+    gap: 10px;
+  }
+
+  .container {
+    max-width: 500px;
+    margin: auto;
+  }
+
+  .footer {
+    font-size: 14px;
+    height: 45px;
+    line-height: 45px;
+    padding-left: 15px;
+  }
+}
+
+
+
+.analysis-container {
+  padding: 10px;
+}
+
+.analysis-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.analysis-card {
+  background: #ffffff;
+  padding: 12px;
+  border-radius: 10px;
+  margin-bottom: 12px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.dark .analysis-card {
+  background: #1f1f1f;
+}
+
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 50px; 
+  line-height: 50px; 
+  font-weight: bold;
+  font-size: 16px;
+  color: #660bf7;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+main {
+  padding: 20px;
+  padding-bottom: 60px; /* footer height space */
+  box-sizing: border-box;
+}
+
+
+.analysis-row {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  margin-bottom: 6px;
+}
+
+.analysis-name {
+  font-size: 15px;
+}
+
+.analysis-price {
+  color: #28a745;
+}
+
+.progress-bar-bg {
+  height: 8px;
+  background: #e0e0e0;
+  border-radius: 6px;
+  overflow: hidden;
+  margin-bottom: 5px;
+}
+
+.progress-bar-fill {
+  height: 8px;
+  background: linear-gradient(to right, #4facfe, #00f2fe);
+}
+
+.analysis-percent {
+  font-size: 13px;
+  text-align: right;
+}
+
+.empty-text {
+  text-align: center;
+  opacity: 0.7;
+}
