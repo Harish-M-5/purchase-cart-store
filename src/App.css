@@ -40,7 +40,7 @@ body {
 .header {
   position: sticky;
   top: 0;
-  padding: 18px 15px;   /* before 10 irundha increase pannunga */
+  padding: 18px 15px;  
   display: flex;
   align-items: center;
   justify-content: space-between;
