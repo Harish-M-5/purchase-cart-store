@@ -159,7 +159,7 @@ http://localhost:5173
 
 ---
 
-# ⚙ Git Setup (First Time)
+# ⚙ Git Setup 
 
 ### Initialize Git
 
@@ -193,7 +193,7 @@ git push -u origin main
 
 ---
 
-## Demo Video:
+## 🎥 Demo Video:
 
 
 https://github.com/user-attachments/assets/c1fcbf0f-2266-4c26-931d-cb0f7d382af5
@@ -201,7 +201,9 @@ https://github.com/user-attachments/assets/c1fcbf0f-2266-4c26-931d-cb0f7d382af5
 
 ---
 
-## Output:
+## 🎥 Mobile Demo Video 
+
+## 📸 Output:
 <img width="1920" height="1080" alt="Screenshot 2026-03-07 202049" src="https://github.com/user-attachments/assets/58aacbeb-9e53-484f-90e7-5022323ff822" />
 
 <img width="1920" height="1080" alt="Screenshot 2026-03-07 202248" src="https://github.com/user-attachments/assets/037a2279-7b05-485b-9fd9-e7e40f675d6f" />
