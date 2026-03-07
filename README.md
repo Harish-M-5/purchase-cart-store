@@ -1,7 +1,7 @@
 # 🛒 Purchase Cart Store
 
 A simple and powerful **offline shopping cart tracker** built using **React.js**.
-This application helps users quickly add purchased items, track total spending, manage budgets, and maintain a purchase history.
+This application helps users quickly add purchased items, track total spending, manage budgets, and maintain a purchase history and analysis 
 
 The app is designed to work **smoothly on mobile devices, laptops, and desktops**, and it also supports **dark mode and offline usage**.
 
@@ -19,6 +19,7 @@ The application includes:
 * Budget monitoring
 * Purchase history
 * Bill generation
+* Purchase analysis 
 
 All data is stored using **localStorage**, so the app works **even without internet**.
 
@@ -35,6 +36,7 @@ All data is stored using **localStorage**, so the app works **even without inter
 - Purchase history tracking
 - Export bill as PDF
 - Dark mode toggle
+- Purchase Analysis mini Dashboard 
 - Mobile responsive UI
 - Offline working 
 
