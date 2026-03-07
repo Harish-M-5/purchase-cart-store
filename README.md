@@ -26,17 +26,17 @@ All data is stored using **localStorage**, so the app works **even without inter
 
 # ✨ Features
 
-✅ Add items with price
-✅ Select category before adding items
-✅ Increase / decrease item quantity
-✅ Remove individual items
-✅ Delete all items (moves to purchase history)
-✅ Budget warning when spending exceeds limit
-✅ Purchase history tracking
-✅ Export bill as PDF
-✅ Dark mode toggle
-✅ Mobile responsive UI
-✅ Offline working (local storage)
+- Add items with price
+- Select category before adding items
+- Increase / decrease item quantity
+- Remove individual items
+- Delete all items
+- Budget warning when spending exceeds limit
+- Purchase history tracking
+- Export bill as PDF
+- Dark mode toggle
+- Mobile responsive UI
+- Offline working 
 
 ---
 
