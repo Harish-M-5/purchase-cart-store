@@ -193,6 +193,33 @@ git push -u origin main
 
 ---
 
+## Demo Video:
+
+
+https://github.com/user-attachments/assets/c1fcbf0f-2266-4c26-931d-cb0f7d382af5
+
+
+---
+
+## Output:
+<img width="1920" height="1080" alt="Screenshot 2026-03-07 202049" src="https://github.com/user-attachments/assets/58aacbeb-9e53-484f-90e7-5022323ff822" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-03-07 202248" src="https://github.com/user-attachments/assets/037a2279-7b05-485b-9fd9-e7e40f675d6f" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-03-07 202110" src="https://github.com/user-attachments/assets/65b11076-75b9-46fe-b603-1b6f1c1f725a" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-03-07 202219" src="https://github.com/user-attachments/assets/4da104fd-d07a-4a9e-8c82-9aaae27874c8" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-03-07 202203" src="https://github.com/user-attachments/assets/2f3f6e28-2d28-41b4-9288-1a80eb9e1fe9" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-03-07 202309" src="https://github.com/user-attachments/assets/d6c7f342-d6f7-4c42-a9fa-d5d50e88b109" />
+
+
+
+---
+
+
+
 # 🧠 Key Concepts Used
 
 This project demonstrates several important frontend concepts:
