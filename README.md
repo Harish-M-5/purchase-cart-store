@@ -68,6 +68,7 @@ purchase-cart-store
 │   ├── components
 │   │   ├── AddItemForm.jsx
 │   │   └── Analytics.jsx
+|   |   |___CartItem.jsx
 |   |   |___CartList.jsx
 |   |   |___Total Display.jsx
 
