@@ -203,6 +203,17 @@ https://github.com/user-attachments/assets/c1fcbf0f-2266-4c26-931d-cb0f7d382af5
 
 ## 🎥 Mobile Demo Video 
 
+
+https://github.com/user-attachments/assets/12417cb6-45ff-40f7-be68-9501e877f94e
+
+
+
+Uploading 1000247835.mp4…
+
+
+
+---
+
 ## 📸 Output:
 <img width="1920" height="1080" alt="Screenshot 2026-03-07 202049" src="https://github.com/user-attachments/assets/58aacbeb-9e53-484f-90e7-5022323ff822" />
 
