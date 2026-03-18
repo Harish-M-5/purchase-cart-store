@@ -105,7 +105,7 @@ Purchase Cart Store solves this by:
 * Warning when budget is exceeded
 * Saving purchase history
 
-This helps users **manage daily expenses easily**.
+This helps users **manage daily expenses easily**
 
 ---
 
